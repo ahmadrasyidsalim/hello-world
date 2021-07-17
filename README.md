@@ -1,3 +1,3 @@
-```
-clj -X hello-world.hello/-main
+```bash
+clojure -M -m hello-world.hello
 ```
